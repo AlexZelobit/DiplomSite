@@ -1,0 +1,15 @@
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\bin\Debug\net6.0\Example_2.exe
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\bin\Debug\net6.0\Example_2.deps.json
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\bin\Debug\net6.0\Example_2.runtimeconfig.json
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\bin\Debug\net6.0\Example_2.dll
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\bin\Debug\net6.0\Example_2.pdb
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.csproj.AssemblyReference.cache
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.AssemblyInfoInputs.cache
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.AssemblyInfo.cs
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.csproj.CoreCompileInputs.cache
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.dll
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\refint\Example_2.dll
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.pdb
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\Example_2.genruntimeconfig.cache
+C:\! Рабочая папка - Александр\Обучение\Разработчик\GIT\Examples\Example_2\obj\Debug\net6.0\ref\Example_2.dll
